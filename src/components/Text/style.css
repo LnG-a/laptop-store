@@ -1,0 +1,65 @@
+.main-product-name {
+  padding: 5px 0;
+  font-weight: 500;
+}
+
+.main-price {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: red;
+  margin-bottom: 0px;
+  padding: 0;
+}
+
+.main-discount {
+  font-size: small;
+  color: red;
+}
+
+.main-old-price {
+  font-size: small;
+  text-decoration: line-through;
+  color: grey;
+}
+
+.by {
+  color: grey;
+  font-size: small;
+}
+
+.seller {
+  color: blue;
+  font-size: small;
+}
+
+.product-name {
+  padding: 5px 0;
+  font-weight: 500;
+  font-size: small;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 1rem;
+  color: red;
+  margin-bottom: 0px;
+  padding: 0;
+}
+
+.discount {
+  font-size: x-small;
+  color: red;
+}
+
+.old-price {
+  font-size: small;
+  text-decoration: line-through;
+  color: grey;
+  margin: 0px;
+  padding: 0px;
+}
+
+.warning {
+  color: #e9a553;
+  font-size: small;
+}
